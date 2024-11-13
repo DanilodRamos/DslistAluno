@@ -8,6 +8,7 @@ A aplicação consiste em uma pesquisa de preferência de games, onde os dados s
 
 Layout mobile!
 ![mobile1](https://github.com/user-attachments/assets/c7888e26-ba79-4314-9ebe-4b7aa2a514f3)
+
 [mobile2](https://github.com/user-attachments/assets/27a2cc34-a335-48a6-975f-d1e504beb002)
 
 Layoutweb!
