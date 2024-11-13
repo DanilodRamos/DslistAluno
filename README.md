@@ -44,7 +44,7 @@ Back end
 Pré-requisitos: Java 11
 
 # clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
+git clone https://github.com/devsuperior/sds1-danilodramos
 
 # entrar na pasta do projeto back end
 cd backend
@@ -55,7 +55,7 @@ Front end web
 Pré-requisitos: npm / yarn
 
 # clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
+git clone https://github.com/devsuperior/sds1-danilodramos
 
 # entrar na pasta do projeto front end web
 cd front-web
