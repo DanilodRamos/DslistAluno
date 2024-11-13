@@ -9,12 +9,12 @@ A aplicação consiste em uma pesquisa de preferência de games, onde os dados s
 Layout mobile!
 ![mobile1](https://github.com/user-attachments/assets/c7888e26-ba79-4314-9ebe-4b7aa2a514f3)
 
-[mobile2](https://github.com/user-attachments/assets/27a2cc34-a335-48a6-975f-d1e504beb002)
+![mobile2](https://github.com/user-attachments/assets/27a2cc34-a335-48a6-975f-d1e504beb002)
 
 Layoutweb!
 
 ![web1](https://github.com/user-attachments/assets/a61f4c38-10ab-4e77-9d73-d2e447184e0b)
-[web2](https://github.com/user-attachments/assets/818a153e-93b2-4cfa-9c90-0407cd300815)
+![web2](https://github.com/user-attachments/assets/818a153e-93b2-4cfa-9c90-0407cd300815)
 
 Modelo conceitual
 
